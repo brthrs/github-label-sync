@@ -37,6 +37,10 @@
   color: "ffffff"
   aliases: []
   description: This doesn't seem right
+- name: "learn"
+  color: "fb55b0"
+  aliases: []
+  description: This is about learning something
 - name: "maintenance"
   color: "ddf4ff"
   aliases:
